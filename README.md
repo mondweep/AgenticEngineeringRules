@@ -21,4 +21,11 @@ The SPARC workflow consists of five key phases:
 
 ## Repository Structure
 
-This repository contains the rules, guidelines and configurations for integrating AI agents into the development workflow. 
+This repository contains the rules, guidelines and configurations for integrating AI agents into the development workflow.
+
+### File Organization
+
+- `.roo/`: Contains rule definitions for different development stages and scenarios
+- `.cursorrules` and `.windsurfrules`: Configuration files for AI code assistants
+- `LICENSE`: MIT license file
+- Various markdown files documenting the SPARC methodology and implementation details 
